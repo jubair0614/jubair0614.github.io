@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-sitemap: false
+sitemap: true
 permalink: /contact
 ---
 
