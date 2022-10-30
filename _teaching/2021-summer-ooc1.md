@@ -13,7 +13,7 @@ Object Oriented Concepts I (OOC-I) is offered to 2nd semester students of Softwa
 Course Outline
 ======
 
-<a href="https://www.researchgate.net/profile/Md-Jubair-Mostafa" target="_blank"><i class="fa-brands fa-google-drive"></i></a>
+<!-- <a href="https://www.researchgate.net/profile/Md-Jubair-Mostafa" target="_blank"><i class="fa-brands fa-var-google-drive"></i></a> -->
 
 Contents
 ======
