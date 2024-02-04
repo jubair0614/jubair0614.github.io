@@ -5,13 +5,38 @@ permalink: /publications/
 author_profile: true
 ---
 
-[An empirical study on neophytes of stack overflow: How welcoming the community is towards them](https://doi.org/10.5220/0011081100003176) <br>
-Abdullah Al Jobair, Suzad Mohammad, Zahin Raidah Maisha, **Md. Jubair Ibna Mostafa**, and Md. Nazmul
-Haque.<br>
-In Proceedings of the 17th International Conference on Evaluation of Novel Approaches to Software Engineering, Online Streaming,, pages 197–208, SciTePress,  **ENASE 2022** <br>
+[A study on classifying stack overflow questions based on difficulty by utilizing contextual features](https://www.sciencedirect.com/science/article/abs/pii/S0164121223002790) <br>
+Maliha Noushin Raida, Zannatun Naim Sristy, Nawshin Ulfat, Sheikh Moonwara Anjum Monisha, **Md. Jubair
+Ibna Mostafa**, and Md. Nazmul Haque.<br>
+in Journal of Systems and Software, Volume: 208:111884, 2024. Elsevier, **JSS 2024** <br>
+<a href="https://www.researchgate.net/profile/Md-Jubair-Mostafa" target="_blank"><i class="fa fa-link"></i></a>
+<a href="https://github.com/jubair0614" target="_blank"><i class="fab fa-github"></i></a>
+
+---
+
+[The ugly side of stack overflow: An in-depth exploration of the social dynamics of new users’ engagement and community perception of them](https://doi.org/10.5220/0011081100003176) <br>
+Abdullah Al Jobair, Suzad Mohammad, Zahin Raidah Maisha, **Md. Jubair Ibna Mostafa**, and Md. Nazmul Haque.<br>
+in Communications in Computer and Information Science book series (CCIS, volume 1829), pages 243–265, Cham, 2023. Springer, **CCIS 2023** <br>
 <!-- <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a> -->
 <a href="https://www.researchgate.net/profile/Md-Jubair-Mostafa" target="_blank"><i class="fa fa-link"></i></a>
 <!-- <a href="#" target="_blank"><i class="fa fa-slideshare"></i></a> -->
+<a href="https://github.com/jubair0614" target="_blank"><i class="fab fa-github"></i></a>
+
+---
+
+[Effectiveness of data augmentation and ensembling using transformer-based models for sentiment analysis: Software engineering perspective](https://doi.org/10.5220/0011081100003176) <br>
+Zubair Rahman Tusar, Sadat Bin Sharfuddin, Muhtasim Abid, Md. Nazmul Haque, and **Md. Jubair Ibna Mostafa**.<br>
+in Proceedings of the 18th International Conference on Software
+Technologies, (ICSOFT), Rome, Italy, July 10-12, pages 438–447 2023. SciTePress, **ICSOFT 2023** <br>
+<a href="https://www.researchgate.net/profile/Md-Jubair-Mostafa" target="_blank"><i class="fa fa-link"></i></a>
+<a href="https://github.com/jubair0614" target="_blank"><i class="fab fa-github"></i></a>
+
+---
+
+[An empirical study on neophytes of stack overflow: How welcoming the community is towards them](https://doi.org/10.5220/0011081100003176) <br>
+Abdullah Al Jobair, Suzad Mohammad, Zahin Raidah Maisha, **Md. Jubair Ibna Mostafa**, and Md. Nazmul Haque.<br>
+In Proceedings of the 17th International Conference on Evaluation of Novel Approaches to Software Engineering, Online Streaming,, pages 197–208, SciTePress, **ENASE 2022** <br>
+<a href="https://www.researchgate.net/profile/Md-Jubair-Mostafa" target="_blank"><i class="fa fa-link"></i></a>
 <a href="https://github.com/jubair0614" target="_blank"><i class="fab fa-github"></i></a>
 
 ---

@@ -26,9 +26,7 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <a href="https://jubair0614.github.io/publications/" target="_self">See Full Publication list</a>
 
 
 Teaching
