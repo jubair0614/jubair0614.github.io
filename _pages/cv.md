@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="./../assets/pdfs/cv_jubair.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>Full CV</a>
+<a href="https://drive.google.com/file/d/1DqQtOYYGNfnSAtSPY5s4UTwcuq_FB_aJ/view?usp=sharing" target="_blank">Full CV</a>
 
 Education
 ======
